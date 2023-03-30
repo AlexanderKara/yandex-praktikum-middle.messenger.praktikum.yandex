@@ -4,8 +4,8 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "parcel src/index.hbs",
-    "build": "parcel build src/index.hbs",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
     "start": "node index.js"
   },
   "keywords": [],
@@ -13,6 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@anikin/parcel-transformer-handlebars": "^1.0.2",
+    "@parcel/transformer-sass": "^2.8.3",
     "assert": "^2.0.0",
     "browserify-zlib": "^0.2.0",
     "buffer": "^5.7.1",

@@ -13,4 +13,5 @@
 Ссылка на приложение:
 https://webchatka.netlify.app/
 
-Ссылка на pull request
+Ссылка на PR:
+
