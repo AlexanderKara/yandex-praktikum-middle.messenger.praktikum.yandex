@@ -1,21 +1,18 @@
----
-id: "Main"
----
 <html>
 <head>
     <title>Временные ссылки</title>
-    <link rel="stylesheet" href="./styles/styles.css" />
-    <script src="index.js" type="module"></script>
+    <link rel="stylesheet" href="./styles/styles.scss" />
+    <script src="./index.js" type="module"></script>
 </head>
 <body>
 <div class="menu">
-    <a href="./pages/login.hbs" class="link_style">Авторизация</a>
-    <a href="./pages/register.hbs" class="link_style">Регистрация</a>
-    <a href="./pages/chat.hbs" class="link_style">Чаты и переписка</a>
-    <a href="./pages/profile.hbs" class="link_style">Настройки пользователя</a>
-    <a href="./pages/404.hbs" class="link_style">404</a>
-    <a href="./pages/500.hbs" class="link_style">5**</a>
+    <a href="pages/login/login.hbs" class="link_style">Авторизация</a>
+<!--    <a href="pages/register/register.hbs" class="link_style">Регистрация</a>
+    <a href="pages/chat/chat.hbs" class="link_style">Чаты и переписка</a>
+    <a href="pages/profile/profile.hbs" class="link_style">Настройки пользователя</a>
+    <a href="pages/404/404.hbs" class="link_style">404</a>
+    <a href="pages/500/500.hbs" class="link_style">5**</a>-->
 </div>
-<div id="{{ id }}"></div>
+    <div id="main"></div>
 </body>
 </html>

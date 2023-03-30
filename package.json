@@ -2,11 +2,11 @@
   "name": "yap.middle",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "type": "module",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html",
-    "start": "node index.js"
+    "build": "parcel build dist/index.js",
+    "start": "node srv.js"
   },
   "keywords": [],
   "author": "",
