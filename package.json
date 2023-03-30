@@ -2,16 +2,17 @@
   "name": "yap.middle",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "dev": "parcel index.hbs",
-    "build": "parcel build index.hbs"
+    "dev": "parcel src/index.hbs",
+    "build": "parcel build src/index.hbs",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@anikin/parcel-transformer-handlebars": "^1.0.9",
+    "@anikin/parcel-transformer-handlebars": "^1.0.2",
     "assert": "^2.0.0",
     "browserify-zlib": "^0.2.0",
     "buffer": "^5.7.1",
@@ -30,6 +31,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "handlebars": "^4.7.7"
+    "handlebars": "^4.7.7",
+    "rimraf": "^4.4.1"
   }
 }
