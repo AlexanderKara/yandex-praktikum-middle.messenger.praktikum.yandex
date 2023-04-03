@@ -1,33 +1,62 @@
-import { pageReg } from './pages/register'
-import { pageLogin } from './pages/login'
-import { pageChat } from './pages/chat'
-import { pageProfile } from './pages/profile'
-import { page404} from './pages/404'
-import { page500} from './pages/500'
+const parseLocation = () => location.hash.slice(1).toLowerCase() || '/';
+const findComponentByPath = (path, routes) => routes.find(r => r.path.match(new RegExp(`^\\${path}$`, 'gm'))) || undefined;
 
-const path = {
-    '/login': pageLogin,
-    '/reg': pageReg,
-    '/chat': pageChat,
-    '/profile': pageProfile,
-    '/404': page404,
-    '/500': page500
-}
 
-const renderDOM = (page) => {
-    const main = document.getElementById('main')
-    main.innerHTML = page()
-}
-
-const loader = (event) => {
-    const pathTxt = window.location.pathname
-    const contPg = path[pathTxt]
-    if (contPg) {
-        renderDOM(contPg)
-    } else {
-        renderDOM(path['/404'])
+const HomeComponent = {
+    render: () => {
+        return `
+      <section>
+        <h1>Home</h1>
+        <p>This is just a test</p>
+      </section>
+    `;
     }
 }
 
-window.addEventListener('load', loader)
-window.addEventListener('hashchange', loader)
+const Page1Component = {
+    render: () => {
+        return `
+      <section>
+        <h1>Page 1</h1>
+        <p>This is just a test</p>
+      </section>
+    `;
+    }
+}
+
+const Page2Component = {
+    render: () => {
+        return `
+      <section>
+        <h1>Page 2</h1>
+        <p>This is just a test</p>
+      </section>
+    `;
+    }
+}
+
+const ErrorComponent = {
+    render: () => {
+        return `
+      <section>
+        <h1>Error</h1>
+        <p>This is just a test</p>
+      </section>
+    `;
+    }
+}
+
+const routes = [
+    { path: '/', component: HomeComponent, },
+    { path: '/page1', component: Page1Component, },
+    { path: '/page2', component: Page2Component, },
+];
+
+const router = () => {
+    const path = parseLocation();
+    const { component = ErrorComponent } = findComponentByPath(path, routes) || {};
+    document.getElementById('app').innerHTML = component.render();
+};
+
+window.addEventListener('hashchange', router);
+window.addEventListener('load', router);

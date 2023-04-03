@@ -1,1 +1,0 @@
-import page from './500.hbs'

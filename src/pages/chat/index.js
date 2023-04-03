@@ -1,1 +1,0 @@
-import page from './chat.hbs'
