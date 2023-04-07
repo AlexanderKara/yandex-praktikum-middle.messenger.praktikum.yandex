@@ -115,6 +115,14 @@ body {
     align-items: center;
 }
 
+.form-inputs-wrapper {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
 .form-inputs-wrapper_2 {
     display: flex;
     width: 100%;
@@ -123,18 +131,9 @@ body {
     align-items: center;
     gap: 10px;
 }
-
 .form-wrapper-3 {
     gap: 20px;
     padding:20px 40px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-items: center;
-}
-
-.form-inputs-wrapper {
-    gap: 10px;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
@@ -157,7 +156,6 @@ body {
     color: $text_color_3;
     background: $bgr_4;
     border-radius: 20px 20px 0px 0px;
-
 }
 
 .form-text {
