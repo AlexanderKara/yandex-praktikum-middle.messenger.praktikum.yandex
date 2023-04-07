@@ -1,0 +1,26 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>### Учебный проект: мессенджер ЧатКа\r\n### Спринт 1\r\n\r\n###Прототипы экранов в Figma:\r\n(https://www.figma.com/file/b27W7yQQClMuXRIrPnoqR0/AlexanderKa_sprint_1?node-id=1-2&t=M9j0f4zK2Ut2LSRs-4)\r\n\r\n###Ссылка на приложение:\r\nhttps://webchatka.netlify.app/\r\n\r\n###Ссылка на PR: https://github.com/AlexanderKara/yandex-praktikum-middle.messenger.praktikum.yandex/pull/3\r\n\r\n###Команды для запуска:\r\n\r\nПроект собирается в [Parcel](https://parceljs.org/):\r\n\r\n```bash\r\nnpm run build\r\n```\r\n\r\nСборка и запуск статического сервера на Express:\r\n\r\n```bash\r\nnpm run start\r\n```\r\n\r\nСборка проекта в Parcel:\r\n\r\n```bash\r\nnpm run dev\r\n```\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 0ba200167a5a043507d12b00bf73063a876b9220)
++++ b/README.md	(date 1680861184820)
+@@ -17,13 +17,13 @@
+ npm run build
+ ```
+ 
+-Сборка и запуск статического сервера на Express:
++Сборка и запуск статического сервера на Express по адресу http://localhost:3000/:
+ 
+ ```bash
+ npm run start
+ ```
+ 
+-Сборка проекта в Parcel:
++Сборка проекта в Parcel по адресу http://localhost:1234:
+ 
+ ```bash
+ npm run dev
