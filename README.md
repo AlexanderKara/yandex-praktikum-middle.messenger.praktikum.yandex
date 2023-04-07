@@ -17,13 +17,13 @@ https://webchatka.netlify.app/
 npm run build
 ```
 
-Сборка и запуск статического сервера на Express по адресу http://localhost:3000/:
+Сборка и запуск статического сервера на Express:
 
 ```bash
 npm run start
 ```
 
-Сборка проекта в Parcel по адресу http://localhost:1234:
+Сборка проекта в Parcel:
 
 ```bash
 npm run dev
