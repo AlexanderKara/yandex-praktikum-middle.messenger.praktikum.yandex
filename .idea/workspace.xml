@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5e73cd8-16ed-4ebf-be32-1a1bebb47fb8" name="Changes" comment="upload Sprint 1">
+    <list default="true" id="a19a7ee6-a981-409e-9c43-f9ea20d839cf" name="Changes" comment="upload Sprint 1">
+      <change afterPath="$PROJECT_DIR$/static/list.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/floater/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/floater/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/pics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/pics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="deploy" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,7 +136,7 @@
       <workItem from="1680693780090" duration="17253000" />
       <workItem from="1680777242743" duration="29195000" />
       <workItem from="1680854371418" duration="710000" />
-      <workItem from="1680855102690" duration="4934000" />
+      <workItem from="1680855102690" duration="3738000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1680106378680</created>
@@ -337,49 +341,7 @@
       <option name="project" value="LOCAL" />
       <updated>1680857021419</updated>
     </task>
-    <task id="LOCAL-00030" summary="upload Sprint 1">
-      <created>1680858929927</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1680858929927</updated>
-    </task>
-    <task id="LOCAL-00031" summary="upload Sprint 1">
-      <created>1680869839281</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1680869839281</updated>
-    </task>
-    <task id="LOCAL-00032" summary="upload Sprint 1">
-      <created>1680870115290</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1680870115290</updated>
-    </task>
-    <task id="LOCAL-00033" summary="upload Sprint 1">
-      <created>1680870433142</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1680870433142</updated>
-    </task>
-    <task id="LOCAL-00034" summary="upload Sprint 1">
-      <created>1680871799986</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1680871799986</updated>
-    </task>
-    <task id="LOCAL-00035" summary="upload Sprint 1">
-      <created>1680871805133</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1680871805133</updated>
-    </task>
-    <option name="localTasksCounter" value="36" />
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
