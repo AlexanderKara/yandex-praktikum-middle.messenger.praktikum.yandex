@@ -70,7 +70,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.15.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.15.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/karab/projects/yap.middle&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karab/projects/yap.middle/reset&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -90,11 +90,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karab\projects\yap.middle\reset" />
       <recent name="C:\Users\karab\projects\yap.middle\src\pages\chat" />
       <recent name="C:\Users\karab\projects\yap.middle\src\pages\chat\menu" />
       <recent name="C:\Users\karab\projects\yap.middle\src" />
       <recent name="C:\Users\karab\projects\yap.middle" />
-      <recent name="C:\Users\karab\projects\yap.middle\src\components\Link" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\karab\projects\yap.middle\src\styles" />
@@ -127,7 +127,7 @@
       <workItem from="1680693780090" duration="17253000" />
       <workItem from="1680777242743" duration="29195000" />
       <workItem from="1680854371418" duration="710000" />
-      <workItem from="1680855102690" duration="1409000" />
+      <workItem from="1680855102690" duration="1756000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1680106378680</created>
