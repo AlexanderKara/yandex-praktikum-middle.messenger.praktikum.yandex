@@ -1,0 +1,14 @@
+@import '../../styles/main.scss';
+
+.button-secondary {
+    padding: 14px 40px;
+    border-radius: 7px;
+    background-color: transparent;
+    border: 0;
+    font-size: 16px;
+    color: $text_color_3;
+}
+
+.button-secondary:active {
+    opacity: 0.75;
+}

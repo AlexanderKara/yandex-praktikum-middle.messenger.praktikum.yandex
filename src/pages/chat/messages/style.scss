@@ -1,0 +1,67 @@
+@import '../../../styles/main.scss';
+
+.messages-layout {
+    height: 100% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+        
+    .messages {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px 20px;
+        border-radius: 20px;
+
+        .message {
+            max-width: 50%;
+            min-width: 100px;
+            width: max-content;
+            padding: 5px 20px;
+            list-style-type: none;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 17px;
+            color: $text_color_3;
+            -moz-hyphens: auto;
+            -webkit-hyphens: auto;
+            -ms-hyphens: auto;
+
+            &.message_out {
+                background-color: $bgr_4;
+                border-radius: 20px 20px 20px 0px;
+                align-self: flex-start;
+
+                .time {
+                    width: 100%;
+                    color: $text_color_1;
+                    text-align: right;
+                }
+                .text {
+                    width: 100%;
+                    text-align: right;
+                }
+
+            }
+
+            &.message_in {
+                background-color: $bgr_2;
+                border-radius: 20px 20px 0px 20px;
+                align-self: flex-end;
+
+                .time {
+                    width: 100%;
+                    color: $text_color_1;
+                    text-align: left;
+                }
+                .text {
+                    width: 100%;
+                    text-align: left;
+                }
+            }
+
+        }
+    }
+
+}
