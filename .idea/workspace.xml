@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a19a7ee6-a981-409e-9c43-f9ea20d839cf" name="Changes" comment="upload Sprint 1" />
+    <list default="true" id="a19a7ee6-a981-409e-9c43-f9ea20d839cf" name="Changes" comment="upload Sprint 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,11 @@
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="main" />
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE_MERGES" />
+      </set>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -36,6 +43,11 @@
         <option name="argument" value="--follow-tags" />
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -73,6 +85,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\karab\projects\yap.middle\src\pages\chat" />
@@ -112,7 +129,7 @@
       <workItem from="1680693780090" duration="17253000" />
       <workItem from="1680777242743" duration="29195000" />
       <workItem from="1680854371418" duration="710000" />
-      <workItem from="1680855102690" duration="449000" />
+      <workItem from="1680855102690" duration="1108000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1680106378680</created>
@@ -275,7 +292,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680855414225</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="upload Sprint 1">
+      <created>1680855703702</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680855703702</updated>
+    </task>
+    <task id="LOCAL-00025" summary="upload Sprint 1">
+      <created>1680855716061</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680855716061</updated>
+    </task>
+    <task id="LOCAL-00026" summary="upload Sprint 1">
+      <created>1680855777456</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1680855777456</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
