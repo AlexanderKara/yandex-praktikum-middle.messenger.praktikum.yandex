@@ -7,7 +7,7 @@
 ###Ссылка на приложение:
 https://webchatka.netlify.app/
 
-###Ссылка на PR: https://github.com/AlexanderKara/yandex-praktikum-middle.messenger.praktikum.yandex/pull/3
+###Ссылка на PR: https://github.com/AlexanderKara/yandex-praktikum-middle.messenger.praktikum.yandex/pull/4
 
 ###Команды для запуска:
 
@@ -17,13 +17,13 @@ https://webchatka.netlify.app/
 npm run build
 ```
 
-Сборка и запуск статического сервера на Express:
+Сборка и запуск статического сервера на Express по адресу http://localhost:3000/:
 
 ```bash
 npm run start
 ```
 
-Сборка проекта в Parcel:
+Сборка проекта в Parcel по адресу http://localhost:1234:
 
 ```bash
 npm run dev
