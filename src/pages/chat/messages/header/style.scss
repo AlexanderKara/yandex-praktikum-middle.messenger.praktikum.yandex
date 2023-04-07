@@ -1,0 +1,70 @@
+@import '../../../../styles/main.scss';
+
+
+.messages-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    gap: 10px;
+    background: #DEE2E3;
+    height: 80px;
+
+    .messages-header_user {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 0px;
+        gap: 10px;
+
+
+        .messages-header_user-ava {
+            width: 50px;
+            height: 50px;
+        }
+
+        .messages-header_user-info {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            font-style: normal;
+            color: $text_color_3;
+            gap: 5px;
+
+            .messages-header_user-nickname {
+                font-style: normal;
+                font-weight: 700;
+                font-size: 15px;
+                line-height: 18px;
+                display: flex;
+                align-items: center;
+                text-align: center;
+            }
+
+            .messages-header_user-status {
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 15px;
+                display: flex;
+                align-items: center;
+                text-align: center;
+            }
+        }
+    }
+
+    .messages-header_menu {
+        border: none;
+        background-color: transparent;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        align-items: center;
+        gap: 10px;
+
+        .messages-header_menu-icon {
+            width: 40px;
+            height: 40px;
+        }
+    }
+}

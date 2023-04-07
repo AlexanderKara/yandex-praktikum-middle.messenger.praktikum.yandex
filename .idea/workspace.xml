@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a19a7ee6-a981-409e-9c43-f9ea20d839cf" name="Changes" comment="gg" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="main" />
+    <option name="OPTIONS">
+      <set>
+        <option value="SQUASH" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nh6pIo2yStuaRMryo4FmJziTS0" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.15.0",
+    "javascript.nodejs.core.library.typings.version": "18.15.0",
+    "last_opened_file_path": "C:/Users/karab/projects/yap.middle",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "two.files.diff.last.used.file": "C:/Users/karab/projects/yap.middle/README.md",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karab\projects\yap.middle\src\pages\chat" />
+      <recent name="C:\Users\karab\projects\yap.middle\src\pages\chat\menu" />
+      <recent name="C:\Users\karab\projects\yap.middle\src" />
+      <recent name="C:\Users\karab\projects\yap.middle" />
+      <recent name="C:\Users\karab\projects\yap.middle\src\components\Link" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karab\projects\yap.middle\src\styles" />
+      <recent name="C:\Users\karab\projects\yap.middle\src" />
+      <recent name="C:\Users\karab\projects\yap.middle\src\components\header" />
+      <recent name="C:\Users\karab\projects\yap.middle" />
+      <recent name="C:\Users\karab\projects\yap.middle\src\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a19a7ee6-a981-409e-9c43-f9ea20d839cf" name="Changes" comment="" />
+      <created>1680104147222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680104147222</updated>
+      <workItem from="1680104148364" duration="9172000" />
+      <workItem from="1680113579870" duration="1751000" />
+      <workItem from="1680160001847" duration="7167000" />
+      <workItem from="1680169250952" duration="1340000" />
+      <workItem from="1680170646542" duration="17618000" />
+      <workItem from="1680535586171" duration="2583000" />
+      <workItem from="1680541308480" duration="6689000" />
+      <workItem from="1680591477715" duration="8279000" />
+      <workItem from="1680602349328" duration="9129000" />
+      <workItem from="1680618444077" duration="8451000" />
+      <workItem from="1680676993982" duration="3706000" />
+      <workItem from="1680681296509" duration="8844000" />
+      <workItem from="1680693780090" duration="17253000" />
+      <workItem from="1680777242743" duration="29195000" />
+      <workItem from="1680854371418" duration="710000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1680106378680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680106378680</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1680106650048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680106650048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Конфиг для netlify">
+      <created>1680107727362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680107727362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Конфиг для netlify">
+      <created>1680111106601</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680111106601</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Конфиг для netlify">
+      <created>1680112457373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680112457373</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Конфиг для netlify">
+      <created>1680112649623</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680112649623</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Конфиг для netlify">
+      <created>1680113963059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680113963059</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Конфиг для netlify">
+      <created>1680113985530</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680113985530</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Конфиг для netlify">
+      <created>1680114730925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680114730925</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Конфиг для netlify">
+      <created>1680165971126</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680165971126</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Конфиг для netlify">
+      <created>1680168482737</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680168482737</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Конфиг для netlify">
+      <created>1680169312957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680169312958</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Конфиг для netlify">
+      <created>1680170182703</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680170182703</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Конфиг для netlify">
+      <created>1680171489709</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680171489709</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Конфиг для netlify">
+      <created>1680171803084</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680171803084</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Конфиг для netlify">
+      <created>1680171918265</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680171918265</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Конфиг для netlify">
+      <created>1680172017888</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680172017888</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Конфиг для netlify">
+      <created>1680173114117</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680173114117</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Конфиг для netlify">
+      <created>1680177859695</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680177859695</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Конфиг для netlify">
+      <created>1680180145489</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680180145489</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Конфиг для netlify">
+      <created>1680187462133</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680187462133</updated>
+    </task>
+    <task id="LOCAL-00022" summary="gg">
+      <created>1680543121424</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680543121424</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="sprint_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <MESSAGE value="Конфиг для netlify" />
+    <MESSAGE value="gg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gg" />
+  </component>
+</project>

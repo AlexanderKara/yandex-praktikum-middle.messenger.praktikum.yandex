@@ -1,0 +1,78 @@
+@import '../../../styles/main.scss';
+
+$chatGap: 10px;
+$chatHeight: 70px;
+
+ .chats {
+    list-style-type: none;
+    padding: 0;
+
+    .chat {
+      height: $chatHeight;
+      width: 100%;
+      flex-direction: row;
+      justify-content: space-between;
+      gap: $chatGap;
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: center;
+
+        .avatar {
+          width: 50px;
+          height: 50px;
+        }
+
+      .chat_name {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: flex-start;
+        color: $text_color_3;
+        gap: 5px;
+      }
+
+      .chat_time {
+        width: 50px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: flex-end;
+        color: $text_color_3;
+        gap: 5px;
+      }
+
+      .chat_text {
+        font-size: 12px;
+        line-height: 12px;
+        color: $text_color_3;
+      }
+
+        .chat-info {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          width: calc(100% - $chatHeight - $chatGap);
+
+          & * {
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+          }
+        }
+    }
+}
