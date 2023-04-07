@@ -7,5 +7,5 @@
 Ссылка на приложение:
 https://webchatka.netlify.app/
 
-Ссылка на PR:
+Ссылка на PR: https://github.com/AlexanderKara/yandex-praktikum-middle.messenger.praktikum.yandex/pull/3
 
