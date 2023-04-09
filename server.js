@@ -8,6 +8,6 @@ app.get("*", (req, res) =>
     res.sendFile("index.html", { root: __dirname + "/dist" })
 );
 
-app.listen(PORT, function () {
+app.listen(process.env.PORT || PORT, function () {
   console.log(`listening on: http://localhost:${PORT}`);
 });
