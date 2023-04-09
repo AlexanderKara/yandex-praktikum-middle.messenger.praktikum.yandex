@@ -20,3 +20,4 @@ const routes = {
 const app = document.getElementById("app");
 app.innerHTML = routes[window.location.pathname]?.();
 
+
