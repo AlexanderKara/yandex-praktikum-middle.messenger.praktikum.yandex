@@ -4,7 +4,7 @@
   "description": "",
   "engines": {
     "npm" : ">=8.19.0 <9.6.3",
-    "node" : ">=16.0.0 <19.0.0"},
+    "node" : ">=12.0.0 <19.0.0"},
   "scripts": {
     "dev": "parcel --no-cache src/index.html",
     "start": "npm run build && node ./server.js",
