@@ -1,5 +1,5 @@
-import Handlebars from "handlebars";
-import template from './template.js';
+import Handlebars from 'handlebars';
+import template from './template';
 import './style.scss';
 
 Handlebars.registerPartial('buttonSecondary', template);
