@@ -1,0 +1,19 @@
+{
+  "routes": {
+    "ERROR_404": "/404",
+    "ERROR_500": "/500",
+    "LOGIN": "/login",
+    "REGISTER": "/register",
+    "PROFILE": "/profile",
+    "CHAT": "/"
+  },
+  "strings": {
+    "CHATS_MESSAGES_INPUT_PLACEHOLDER": "Сообщение: ",
+    "CHATS_MENU_BUTTON_CHATS_NAME": "Чаты",
+    "CHATS_MENU_BUTTON_REGISTER_NAME": "Регистрация",
+    "CHATS_MENU_BUTTON_LOGIN_NAME": "Вход",
+    "CHATS_MENU_BUTTON_PROFILE_NAME": "Профиль",
+    "CHATS_MENU_BUTTON_500_NAME": "500",
+    "CHATS_MENU_BUTTON_404_NAME": "404"
+  }
+}
