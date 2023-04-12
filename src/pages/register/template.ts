@@ -2,6 +2,7 @@ export default `
     <div class='form-title'>{{title}}</div>
     <div class="form-wrapper">
     <div class="form-inputs-wrapper">
+    {{> input }}
     <input class="input-flex" type="text" id="first_name" name="first_name" placeholder="first_name">
     <input class="input-flex" type="text" id="second_name" name="second_name" placeholder="second_name">
     <input class="input-flex" type="text" id="login" name="login" placeholder="login">

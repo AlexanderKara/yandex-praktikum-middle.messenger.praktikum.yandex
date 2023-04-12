@@ -1,0 +1,32 @@
+@import '../../styles/main.scss';
+
+-webkit-input-placeholder { color: $text_color_1!important }
+-moz-placeholder { color: $text_color_1!important }
+-moz-placeholder { color: $text_color_1!important }
+-ms-input-placeholder { color: $text_color_1!important }
+
+:focus::-webkit-input-placeholder { color: transparent }
+:focus::-moz-placeholder { color: transparent }
+:focus:-moz-placeholder { color: transparent }
+:focus:-ms-input-placeholder { color: transparent }
+
+.input-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10px;
+  width: 280px;
+  height: 40px;
+  background: #EDEDED;
+  border-radius: 40px;
+  border-style: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #8B999D;
+
+  &:focus {
+    outline:none!important;
+  }
+}

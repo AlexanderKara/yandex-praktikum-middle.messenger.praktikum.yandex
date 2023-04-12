@@ -1,6 +1,7 @@
 import Handlebars from 'handlebars';
 import template from './template';
 import '../../components/button';
+import '../../components/input';
 import './style.scss';
 import '../../components/floater';
 

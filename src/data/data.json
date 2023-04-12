@@ -8,7 +8,19 @@
     "CHAT": "/"
   },
   "strings": {
+    "LOGIN_LOGIN_INPUT_PLACEHOLDER": "Введите логин...",
+    "LOGIN_PASSWORD_INPUT_PLACEHOLDER": "Введите пароль...",
+
+    "REGISTER_NAME_F_INPUT_PLACEHOLDER": "Введите имя...",
+    "REGISTER_NAME_S_INPUT_PLACEHOLDER": "Введите фамилию...",
+    "REGISTER_LOGIN_INPUT_PLACEHOLDER": "Введите логин (только английские буквы)...",
+    "REGISTER_EMAIL_INPUT_PLACEHOLDER": "Введите почту...",
+    "REGISTER_PHONE_INPUT_PLACEHOLDER": "Введите телефон...",
+    "REGISTER_PASSWORD_INPUT_PLACEHOLDER": "Введите пароль...",
+    "REGISTER_PASSWORD_REP_INPUT_PLACEHOLDER": "Повторите пароль...",
+
     "CHATS_MESSAGES_INPUT_PLACEHOLDER": "Сообщение: ",
+
     "CHATS_MENU_BUTTON_CHATS_NAME": "Чаты",
     "CHATS_MENU_BUTTON_REGISTER_NAME": "Регистрация",
     "CHATS_MENU_BUTTON_LOGIN_NAME": "Вход",
