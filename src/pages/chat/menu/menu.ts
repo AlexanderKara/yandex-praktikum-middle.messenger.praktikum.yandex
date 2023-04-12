@@ -2,14 +2,15 @@ import Handlebars from 'handlebars';
 import template from './template';
 import './style.scss';
 
-const logoPic = '../../../../static/logo.svg';
-const logoutPic = '../../../../static/logout.svg';
-const err404Pic = '../../../../static/err404.svg';
-const err500Pic = '../../../../static/err500.svg';
-const profilePic = '../../../../static/profile.svg';
-const regPic = '../../../../static/reg.svg';
-const authPic = '../../../../static/logout.svg';
-const chatPic = authPic;
+import logoPic from '../../../../static/logo.svg';
+import logoutPic from '../../../../static/logout.svg';
+import err404Pic from '../../../../static/err404.svg';
+import err500Pic from '../../../../static/err500.svg';
+import profilePic from '../../../../static/profile.svg';
+import regPic from '../../../../static/reg.svg';
+import chatPic from '../../../../static/chat.svg';
+
+const authPic = logoutPic;
 
 const routeLinks = require('../../../data/data.json').routes;
 const appStrings = require('../../../data/data.json').strings;
