@@ -1,4 +1,4 @@
-export const template = `
+export default `
 <div class="container">
     <side class="container_menu main-containter-theme">
         {{{menu}}}

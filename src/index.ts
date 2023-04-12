@@ -6,7 +6,7 @@ import page404 from './pages/404/error404';
 import pageProfile from './pages/profile/profile';
 import './styles/main.scss';
 
-const routeLinks = require('./data/data.json');
+const routeLinks = require('./data/data.json').routes;
 
 const routes = {
   [routeLinks.CHAT]: pageChat,
